@@ -173,3 +173,26 @@ python main.py
 ## Conclusion
 
 This project demonstrates the design and implementation of a **production-oriented AI agent system** capable of automating complex workflows with minimal human intervention. It highlights strong capabilities in system design, AI integration, and automation engineering.
+
+## Setup Instructions:
+
+1. Clone the repository:
+   git clone https://github.com/Anjalic0de/ai-job-application-agent.git
+
+2. Navigate to project folder:
+   cd ai-job-application-agent
+
+3. Create virtual environment:
+   python -m venv venv
+
+4. Activate environment:
+   venv\Scripts\activate
+
+5. Install dependencies:
+   pip install -r requirements.txt
+
+6. Install Playwright:
+   playwright install
+
+7. Run the project:
+   python main.py
