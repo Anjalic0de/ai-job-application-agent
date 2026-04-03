@@ -1,4 +1,4 @@
-# AI Job Application Agent
+# End-to-End Agentic AI Job Application System
 
 ## Overview
 
